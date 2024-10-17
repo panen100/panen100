@@ -1,7 +1,8 @@
-## Hi there 👋 I'm Pan.
+## Hi there 👋 I'm Panen100.
 
-- 🔭 I’m currently working as a test manager and part-time smart contract developer.
-- 🌱 I’m currently learning solidity and other web3 knowledge for being a senior smart contract developer.
+- 🔭 I worked as a software quallity assurance with 7+ years and being a test manager with 3+ years.
+- ⚡ I am proficient in entire process and project management of Agile mode.
+- 🌱 I’m currently learning solidity and other web3 knowledge for being a smart contract developer.
 - 👯 I’m looking for more job opportunities to work as a remote web3 developer.
 - 📫 How to reach me: en.pan@outlook.com
 
