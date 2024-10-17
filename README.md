@@ -1,5 +1,10 @@
 ## Hi there 👋 I'm Pan.
 
+- 🔭 I’m currently working as a test manager and part-time smart contract developer.
+- 🌱 I’m currently learning solidity and other web3 knowledge for being a senor smart contract developer.
+- 👯 I’m looking to collaborate with ...
+- 📫 How to reach me: en.pan@outlook.com
+
 <!--
 **panen100/panen100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
