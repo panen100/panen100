@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Pan.
 
 - 🔭 I’m currently working as a test manager and part-time smart contract developer.
-- 🌱 I’m currently learning solidity and other web3 knowledge for being a senor smart contract developer.
-- 👯 I’m looking to collaborate with ...
+- 🌱 I’m currently learning solidity and other web3 knowledge for being a senior smart contract developer.
+- 👯 I’m looking for more job opportunities to work as a remote web3 developer.
 - 📫 How to reach me: en.pan@outlook.com
 
 <!--
