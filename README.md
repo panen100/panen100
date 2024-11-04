@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Panen100.
 
 - 🔭 I worked as a software quallity assurance with 7+ years and being a test manager with 3+ years.
-- ⚡ I am proficient in entire process and project management of Agile mode.
-- 🌱 I’m currently learning solidity and other web3 knowledge for being a smart contract developer.
-- 👯 I’m looking for more job opportunities to work as a remote web3 developer.
-- 📫 How to reach me: en.pan@outlook.com
+- ⚡ I'm proficient in entire process and project management of Agile mode.
+- 🌱 I'm currently transitioning into a Web3 developer. 
+- 👯 I'm currently involved in the development of the Web3 project using Solidity and JavaScript language.
+- 📫 I'm looking for more job opportunities in Web3. Be free to ask me about anything : en.pan@outlook.com
 
 <!--
 **panen100/panen100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
