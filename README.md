@@ -1,4 +1,4 @@
-## Hi there 👋 I'm pppanen100.
+## Hi there 👋 I'm panen100.
 
 - 🔭 I worked as a software quallity assurance with 7+ years and being a test manager with 3+ years.
 - ⚡ I'm proficient in entire process and project management of Agile mode.
